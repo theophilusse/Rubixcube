@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "741573133277",
+    "firebase_url": "https://soutenancerubix-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "soutenancerubix",
+    "storage_bucket": "soutenancerubix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741573133277:android:9e39ad4fa778e6d210ec34",
+        "android_client_info": {
+          "package_name": "com.rubix.rubixcube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741573133277-oii7fbbvr0qrm4dki1np5gsrb0mmlgl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz33-2FRtoXFi31AswEdp50EjzCIgkNxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741573133277-oii7fbbvr0qrm4dki1np5gsrb0mmlgl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741573133277:android:cdb126c8e374d34f10ec34",
+        "android_client_info": {
+          "package_name": "com.rubix.tpaccelerometre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741573133277-oii7fbbvr0qrm4dki1np5gsrb0mmlgl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz33-2FRtoXFi31AswEdp50EjzCIgkNxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741573133277-oii7fbbvr0qrm4dki1np5gsrb0mmlgl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
